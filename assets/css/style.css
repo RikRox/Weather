@@ -1,0 +1,28 @@
+
+
+#cityInput {
+    width:100%;
+}
+
+#searchBtn {
+    width:100%;
+    margin-top: 10px;
+}
+
+.buttons {
+    width:100%;
+    opacity: 75%;
+}
+
+.todayContainer {
+    padding: 20px;
+
+}
+
+.weatherDashboard {
+    /* margin-top: 100px; */
+}
+
+.buttons {
+    margin-top: 10px;
+}
