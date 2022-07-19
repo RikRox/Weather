@@ -28,7 +28,7 @@ THEN I am again presented with current and future conditions for that city
 
 ![Weather](./assets/Capture.PNG)
 
-The day is displayed at the top of the planner. You have time blocks for hours 8 - 16 (8:00 - 4:00). The time blocks are color coded based on the current hour, previous hours, and future hours. You can input an event and hit the save button. Upon refresh your events will remain because they are saved to local storage.
+You have a search bar to enter a city name. You are presented with current and future (5days) worth of weather conditions for that city. You can search multiple cities and they will be displayed on the left. You can click a previous city and it will bring back the weather information for that city.  The UVI is color coded: green is favorable, orange is moderate, and red is severe. You also have icons displayed that show the weather conditions. 
 
 
 ## Assets
