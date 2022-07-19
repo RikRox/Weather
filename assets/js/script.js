@@ -99,6 +99,8 @@ searchBtn.addEventListener("click",function(){
 
     getApiCity();
 
+    document.getElementById("cityInput").value = "";
+
 
     var buttons = document.createElement("button");
     buttons.textContent = city;
